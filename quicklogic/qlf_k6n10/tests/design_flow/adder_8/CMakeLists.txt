@@ -1,3 +1,4 @@
+#This is just a comment
 set(ADDER_8 ${QL_DESIGNS_DIR}/adder_8/adder_8.v)
 
 add_fpga_target(
