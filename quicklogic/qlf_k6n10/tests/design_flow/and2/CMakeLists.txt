@@ -1,3 +1,4 @@
+#Comments
 set(AND2 ${QL_DESIGNS_DIR}/and2/and2.v)
 
 add_fpga_target(
