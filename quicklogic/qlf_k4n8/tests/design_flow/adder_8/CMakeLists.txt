@@ -1,3 +1,4 @@
+#This is just a comment
 set(CURR_DIR ${QL_DESIGNS_DIR}/adder_8)
 add_file_target(FILE ${CURR_DIR}/adder_8.v SCANNER_TYPE verilog)
 
